@@ -1,0 +1,4 @@
+project_id = "ywuntmcinlzubphmirhs"
+
+[functions.analyze-waste]
+verify_jwt = false
